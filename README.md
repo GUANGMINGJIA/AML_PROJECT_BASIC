@@ -20,11 +20,11 @@ Introduced a `DummyClassifier` as a baseline model to provide a clear benchmark 
 ## 2. Improved EDA and Data Processing
 
 Enhanced the EDA by visualizing distributions, label imbalance, and correlation heatmaps.  
-Added automated removal of highly correlated features (corr > 0.9) to reduce multicollinearity risks and make the dataset cleaner.
+Added automated removal of highly correlated features (corr > 0.9) to **reduce multicollinearity risks and make the dataset cleaner**.
 
 ## 3. Improved Presentation Format
 
-Replaced plain text explanations with a clear Markdown + Code + Explain structure, making the notebook more readable and modular.
+Replaced plain text explanations with a clear Markdown + Code + Explain structure, **making the notebook more readable and modular**.
 
 ## 4. Improved Result Analysis \& Extended Discussion
 
